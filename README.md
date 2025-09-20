@@ -1,5 +1,5 @@
 # 
-<h1>Hi 👋, I'm Al Ameen</h1><br><h3>🚀 MERN Stack Developer | 📚 DSA Explorer</h3>💡 Passionate about building modern full-stack web apps & learning new technologies.<br>🌱 Currently diving into Advanced DSA & AI for Web Development<br>💬 Ask me about JavaScript, React, Node.js, Express, MongoDB<br>📍 Based in Kerala, India
+<h1>Hi 👋, I'm Al Ameen</h1><h3>🚀 MERN Stack Developer | 📚 DSA Explorer</h3>💡 Passionate about building modern full-stack web apps & learning new technologies.<br>🌱 Currently diving into Advanced DSA & AI for Web Development<br>💬 Ask me about JavaScript, React, Node.js, Express, MongoDB<br>📍 Based in Kerala, India
 
 
 ## 🌐 Socials:
